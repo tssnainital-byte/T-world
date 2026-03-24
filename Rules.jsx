@@ -78,5 +78,87 @@ University rules and regulations maintain campus discipline, academic integrity,
     <div id="collapseThree" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
       <div class="accordion-body">
         <strong> Mandatory Requirements for Students </strong> 
+        
+        
+        
+       <b> Behavioral & Conduct Standards:</b> <br></br> Regular class attendance ( minimum 75% ), academic integrity, respect for college property, and adherence to student codes of conduct. <br></br><br></br>
+<b>Essential Skills & Tools:</b> <br></br> Time management, independent study, communication skills, and access to necessary technology like a laptop, charger, and student ID. & please fill up and Submit a University <b> <Link>"Rules & Regulations"</Link></b> form and <b><Link>Naps Anti Ragging Form</Link></b>; compulsory for all students  
+        
+        
+        
+        
 
         
+        
+      </div>
+    </div>
+  </div>
+   <div class="accordion-item">
+    <h2 class="accordion-header">
+      <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+       <b> Message by Rule Officer </b>
+      </button>
+    </h2>
+    <div id="collapseFour" class="accordion-collapse collapse" data-bs-parent="#accordionExample">
+      <div class="accordion-body">
+        <strong> message for Students </strong> 
+        <br></br><br></br>
+       <b> Name:</b> Dr. Evelyn Reed<br></br>
+<b>Title:</b> Head of Rules, Regulations, and Academic Compliance<br></br><br></br>
+
+"Welcome to the Academic Year 2026-27 at [University Name]. Our institution is committed to fostering an environment of academic integrity, inclusivity, and mutual respect. As part of this, the Rules Office ensures that all students, faculty, and staff adhere to the highest ethical and administrative standards. 
+
+Our guidelines are designed not merely for restriction, but to ensure a safe, fair, and orderly environment conducive to learning. I urge all members of our community to familiarize themselves with the Student Handbook, the Academic Integrity Policy, and our updated digital data protection protocols. Adherence to these regulations is a shared responsibility that upholds the reputation and quality of our institution." 
+        
+
+        
+        
+      </div>
+    </div>
+  </div>
+  
+  
+  
+</div>
+  
+    
+    
+    <br></br> 
+    
+    
+    <div id="liveAlertPlaceholder"><div><div class="alert alert-success alert-dismissible" role="alert">   <div>Nice, you triggered this alert message!</div>   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div></div><div><div class="alert alert-success alert-dismissible" role="alert">   <div>Thankyou for reading our messagee!</div>   <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Close"></button></div></div></div>
+ 
+ 
+     
+
+    
+    
+    <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br> <br></br>
+    
+    
+    
+    
+    
+    
+    </div>
+    
+    
+    </>
+    
+    
+    
+    
+    
+    
+    )
+    
+}
+
+
+
+
+
+
+
+
+export default Rules;
