@@ -1,0 +1,86 @@
+.signupi{ 
+  
+  color:red;
+  animation:  popup 2s step-start infinite;
+   fontWeight: bold;
+   fontSize: 1.2rem;
+   minHeight: 1.5em;
+}
+
+@keyframes popup {
+  
+ 
+  50% { 
+ opacity :0;
+  }
+
+  }
+
+.sign{ 
+  
+  color:red;
+  animation:  popup 2s step-start infinite;
+   fontWeight: bold;
+   fontSize: 1.2rem;
+   minHeight: 1.5em;
+}
+
+.new{ 
+  
+  color:blue;
+  animation:  popup 3s ease infinite;
+   fontWeight: bold;
+   fontSize: 3.2rem;
+   minHeight: 1.5em;
+   marginLeft: 500;
+}
+
+
+
+.image{
+		
+		background-image:url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZIG4lJwL2MXkC_j98nLf50O2VjwaVp_RCDg&s" );
+		backgroundPosition:;
+		backgroundSize: cover;
+		backgroundBlendMode: darken;
+		backgroundColor: rgba(0, 0, 0, 0.4);
+		opacity: 1;
+		width:100vw;
+		height:835;
+		textAlign:Center;
+		fontSize:35px;
+		color:skyblue;
+		textShadow:0px 0px 30px blue;
+		display:flex;
+		justifyContent:center;
+		gap:185px;	
+		alignItems:center;
+		padding:50px 0px;
+		marginLeft:50px;
+		}
+
+#overlay {
+  position: fixed; /* Sit on top of the page content */
+  display: none; /* Hidden by default */
+  width: 100%; /* Full width (cover the whole page) */
+  height: 100%; /* Full height (cover the whole page) */
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0,0,0,0.5); /* Black background with opacity */
+  z-index: 2; /* Specify a stack order in case you're using a different order for other elements */
+  cursor: pointer; /* Add a pointer on hover */
+}
+
+
+.news{ 
+  
+  color:white;
+  backgroundColor:red ;
+  animation:  popup 1s ease infinite;
+  
+
+
+
+
