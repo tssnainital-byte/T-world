@@ -79,8 +79,45 @@
   color:white;
   backgroundColor:red ;
   animation:  popup 1s ease infinite;
-  
+   fontWeight: bold;
+   fontSize: 25px;
+   minHeight: 18px;
+   height:25px;
+   width:45px;
+   paddingTop:"0px"
+}
+
+.marquee {
+		
+			display: flex ;
+		
+			white-space: nowrap ;
+			width: 300px ;
+		}
+		.marquee{
+			animation-duration: 6s ;
+			animation-iteration-count: infinite ;
+			animation-name: marquee-content ;
+			animation-timing-function: linear ;
+			padding: 5px 15px 5px 15px ;
+		}
+		.marquee:hover {
+			animation-play-state: paused ;
+		}
 
 
 
 
+@keyframes marquee-content {
+	/* Element one fully ON screen at left-edge of container. */
+	from {
+		transform: translateX( 0% );
+	}
+	/* Element one fully OFF screen (just beyond left-ledge of container). */
+	to {
+		transform: translateX( -100% );
+	}
+}
+
+
+							  
